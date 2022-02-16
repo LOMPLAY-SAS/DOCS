@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T16:15:02.680Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4878.0 Safari/537.36" etag="P08kjkVcgcxPGzOGVrjn" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T16:17:38.783Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4878.0 Safari/537.36" etag="3vdETm9juMSaVaZIDgVa" version="16.5.6" type="github">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="5707" dy="2587" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1015,6 +1015,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="le5os0yHCbwuiqdJmQQs-651" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=40;fontColor=#000000;" edge="1" parent="1" source="le5os0yHCbwuiqdJmQQs-616" target="le5os0yHCbwuiqdJmQQs-618">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="le5os0yHCbwuiqdJmQQs-616" value="&lt;font color=&quot;#ffffff&quot;&gt;Access Controller Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" vertex="1" parent="1">
           <mxGeometry x="-635" y="3550" width="400" height="60" as="geometry" />
         </mxCell>
@@ -1090,26 +1093,29 @@
             <mxPoint y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="le5os0yHCbwuiqdJmQQs-642" value="&lt;font color=&quot;#ffffff&quot;&gt;Set sale&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
+        <mxCell id="le5os0yHCbwuiqdJmQQs-642" value="&lt;font color=&quot;#ffffff&quot;&gt;Approve&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="630" y="415" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="le5os0yHCbwuiqdJmQQs-643" value="&lt;font&gt;Restrict access&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="288.3299999999999" y="415" width="310" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="le5os0yHCbwuiqdJmQQs-649" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;fontColor=#000000;" edge="1" parent="le5os0yHCbwuiqdJmQQs-637" source="le5os0yHCbwuiqdJmQQs-644" target="le5os0yHCbwuiqdJmQQs-643">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="le5os0yHCbwuiqdJmQQs-644" value="&lt;font&gt;Read ticket&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="210" y="150.06" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="le5os0yHCbwuiqdJmQQs-645" value="restrictAccess function - Controller.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
+        <mxCell id="le5os0yHCbwuiqdJmQQs-645" value="&lt;i&gt;restrictAccess function &lt;/i&gt;- Controller.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="210" y="470.06" width="408.33" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="le5os0yHCbwuiqdJmQQs-646" value="setPresale function - Event.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
-          <mxGeometry x="620" y="360" width="330" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="le5os0yHCbwuiqdJmQQs-647" value="setOnsale function - Event.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
+        <mxCell id="le5os0yHCbwuiqdJmQQs-647" value="&lt;i&gt;approveTicket function&lt;/i&gt; - Event.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="620" y="475" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="le5os0yHCbwuiqdJmQQs-648" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/qr_code-128.png;shadow=1;glass=1;sketch=0;fontSize=40;fontColor=#000000;strokeColor=#0000FF;fillColor=#CCCCFF;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
           <mxGeometry x="50" y="128.05999999999995" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="le5os0yHCbwuiqdJmQQs-650" value="&lt;i&gt;readTicket function&lt;/i&gt; - Controller.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" vertex="1" parent="le5os0yHCbwuiqdJmQQs-637">
+          <mxGeometry x="160.84000000000003" y="120.05999999999995" width="408.33" height="30" as="geometry" />
         </mxCell>
         <mxCell id="le5os0yHCbwuiqdJmQQs-635" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=40;fontColor=#000000;" edge="1" parent="1" source="le5os0yHCbwuiqdJmQQs-615" target="le5os0yHCbwuiqdJmQQs-616">
           <mxGeometry relative="1" as="geometry">
