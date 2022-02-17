@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2022-02-17T22:47:02.189Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4878.0 Safari/537.36" version="16.5.6" etag="mrnAmWr3GTT7RpTGg2yV" type="github"><diagram id="e8jkFNF5Zg61WflTOzRj">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-17T22:56:30.485Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4878.0 Safari/537.36" etag="M94a7dV9zGR7RX0QagOO" version="16.6.0" type="github">
+  <diagram id="e8jkFNF5Zg61WflTOzRj" name="Page-1">
+    <mxGraphModel dx="772" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kIaiU6BiIj92qUV8aG6d-1" value="LomEvent.sol - IMPLEMENTATION" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kIaiU6BiIj92qUV8aG6d-2" value="&lt;h1&gt;Rationale&lt;/h1&gt;&lt;p&gt;Develop the set of smart contracts with the Transparent Proxy Pattern in order to be able to make changes and upgrades to existing and already deployed contracts.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="30" width="340" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="kIaiU6BiIj92qUV8aG6d-3" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kIaiU6BiIj92qUV8aG6d-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-style: italic ; text-align: center&quot;&gt;Admins are only allowed to call admin functions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Users can only call functions in the implementation contract&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#9E1FFF;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="430" y="20" width="370" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
