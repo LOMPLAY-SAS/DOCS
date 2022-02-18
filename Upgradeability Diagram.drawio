@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T13:27:29.701Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4892.0 Safari/537.36" etag="4uzGdX9bkGL1wi3dP5kl" version="16.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T16:17:18.433Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4892.0 Safari/537.36" etag="uilDoL47bLO0XyTCvnXU" version="16.6.1" type="github">
   <diagram id="e8jkFNF5Zg61WflTOzRj" name="Page-1">
-    <mxGraphModel dx="827" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="890" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,8 +16,8 @@
         <mxCell id="kIaiU6BiIj92qUV8aG6d-3" value="Proxy Contract (Storage Layer) - &lt;i&gt;Stores address of the logic contract&lt;/i&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="220" width="200" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kIaiU6BiIj92qUV8aG6d-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-style: italic ; text-align: center&quot;&gt;Admins are only allowed to call admin functions&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Users can only call functions in the implementation contract&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#9E1FFF;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="430" y="20" width="370" height="80" as="geometry" />
+        <mxCell id="kIaiU6BiIj92qUV8aG6d-5" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-style: italic ; text-align: center&quot;&gt;Admins are not only allowed to call admin functions which makes it a security risk to observe.&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;i&gt;Users can not only call functions in the implementation contract which makes it a security risk to observe.&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontColor=#9E1FFF;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="700" y="50" width="370" height="80" as="geometry" />
         </mxCell>
         <mxCell id="0eufFFK7EkwMoYL5c9lA-1" value="LomEventV2.sol - FUTURE IMPLEMENTATION WITH CHANGES - &lt;i&gt;The upgrade is handled here&lt;/i&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="660" y="340" width="310" height="60" as="geometry" />
@@ -90,6 +90,61 @@
         </mxCell>
         <mxCell id="0eufFFK7EkwMoYL5c9lA-28" value="&amp;lt; == Storage collision!" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="530" y="521" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-30" value="" style="shape=rect;strokeColor=none;fillColor=#ffffff;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="61" y="650" width="704" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-31" value="Write Upgradeable Contract" style="shape=ellipse;strokeColor=none;fillColor=#4285F4;fontColor=#000000;labelPosition=right;align=left;spacingLeft=10;fontStyle=1;fontSize=10;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="24" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-32" value="" style="dashed=0;shape=mxgraph.gmdl.edit;strokeColor=none;fillColor=#ffffff;fontSize=10;fontColor=#FF0000;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-31">
+          <mxGeometry x="0.5" y="0.5" width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="-5" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-33" value="" style="shape=line;strokeColor=#b3b3b3;fontSize=10;fontColor=#FF0000;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="90" height="10" relative="1" as="geometry">
+            <mxPoint x="206" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-34" value="Deploy Proxy (two contracts)" style="shape=ellipse;strokeColor=none;fillColor=#9e9e9e;fontColor=#000000;labelPosition=right;align=left;spacingLeft=10;fontSize=10;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="306" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-35" value="" style="dashed=0;shape=mxgraph.gmdl.check;strokeColor=#ffffff;strokeWidth=2;fontSize=10;fontColor=#FF0000;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-34">
+          <mxGeometry x="0.5" y="0.5" width="12" height="10" relative="1" as="geometry">
+            <mxPoint x="-6" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-36" value="" style="shape=line;strokeColor=#b3b3b3;fontSize=10;fontColor=#FF0000;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="90" height="10" relative="1" as="geometry">
+            <mxPoint x="460" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-37" value="3" style="shape=ellipse;strokeColor=none;fillColor=#9e9e9e;fontColor=#ffffff;fontSize=10;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="24" height="24" relative="1" as="geometry">
+            <mxPoint x="568" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-38" value="Upgrade Proxy" style="shape=rect;strokeColor=none;fillColor=none;align=left;spacingLeft=10;fontColor=#808080;fontSize=10;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-30">
+          <mxGeometry width="110" height="24" relative="1" as="geometry">
+            <mxPoint x="592" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-41" value="&lt;h1&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Recommendation&lt;/font&gt;&lt;/h1&gt;&lt;p&gt;&lt;font color=&quot;#67ab9f&quot;&gt;Follow the step by step proposed by OZ to &lt;a href=&quot;https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580&quot;&gt;make upgrades using gnosis safe.&lt;/a&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;strokeColor=#67AB9F;fillColor=#C4FCF2;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontSize=10;fontColor=#FF0000;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="10" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-60" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="40" y="760" width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-58" value="&lt;ol&gt;&lt;li&gt;&lt;span style=&quot;font-family: monospace ; font-size: 0px&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Deploy%20the%20contract%20to%20a%20public%20network%22%20style%3D%22strokeColor%3Dinherit%3BfillColor%3Dinherit%3BgradientColor%3Dinherit%3BfontColor%3Dinherit%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bperimeter%3Dnone%3BwhiteSpace%3Dwrap%3BresizeWidth%3D1%3Balign%3Dleft%3Bspacing%3D10%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%22820%22%20width%3D%22200%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%223%22%20value%3D%22Trnasfer%20control%20of%20upgrades%20to%20a%20gnosis%20safe%22%20style%3D%22strokeColor%3Dinherit%3BfillColor%3Dinherit%3BgradientColor%3Dinherit%3BfontColor%3Dinherit%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bperimeter%3Dnone%3BwhiteSpace%3Dwrap%3BresizeWidth%3D1%3Balign%3Dleft%3Bspacing%3D10%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%22850%22%20width%3D%22200%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3CmxCell%20id%3D%224%22%20value%3D%22Create%20a%20new%20version%20of%20the%20implementation%22%20style%3D%22strokeColor%3Dinherit%3BfillColor%3Dinherit%3BgradientColor%3Dinherit%3BfontColor%3Dinherit%3Bhtml%3D1%3Bshadow%3D0%3Bdashed%3D0%3Bshape%3Dmxgraph.bootstrap.bottomButton%3BrSize%3D5%3Bperimeter%3Dnone%3BwhiteSpace%3Dwrap%3BresizeWidth%3D1%3BresizeHeight%3D0%3Balign%3Dleft%3Bspacing%3D10%3BfontSize%3D10%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22100%22%20y%3D%22880%22%20width%3D%22200%22%20height%3D%2230%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3&lt;/span&gt;Create an upgradeable contract&lt;/li&gt;&lt;li&gt;Test the contract locally&lt;/li&gt;&lt;li&gt;Deploy the contract to a public network&lt;/li&gt;&lt;li&gt;Transfer control of upgrades to a Gnosis Safe&lt;/li&gt;&lt;li&gt;Create a new version of our implementation&lt;/li&gt;&lt;li&gt;Test the upgrade locally&lt;/li&gt;&lt;li&gt;Deploy the new implementation&lt;/li&gt;&lt;li&gt;Upgrade the contract&lt;/li&gt;&lt;/ol&gt;" style="text;strokeColor=none;fillColor=#FFB570;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;fontSize=10;fontColor=#000000;" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-60">
+          <mxGeometry width="340" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0eufFFK7EkwMoYL5c9lA-59" value="STEP BY STEP FOR UPGRADING THE CONTRACTS" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=#000000;fontStyle=3" vertex="1" parent="0eufFFK7EkwMoYL5c9lA-60">
+          <mxGeometry x="55" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
