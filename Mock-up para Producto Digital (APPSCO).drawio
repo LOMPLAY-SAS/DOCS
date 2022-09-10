@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T16:33:56.384Z" agent="5.0 (Macintosh)" etag="W7yIzzUbKiOOrxo64L8o" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-10T16:42:54.570Z" agent="5.0 (Macintosh)" etag="ZBrjT40LIfVGDrIatDqq" version="20.3.0" type="github" pages="3">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="7072" dy="3736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1110,7 +1110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qs--ciLJgI5a1B0VTcLK" name="Front-end promoter interaction ">
-    <mxGraphModel dx="4132" dy="4648" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2431" dy="3697" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1446,7 +1446,7 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-19" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-30">
           <mxGeometry x="828.3220913040345" y="37.368421052631575" width="143.51" height="31.389473684210525" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-22" value="https://tickets.lomplay.com/miseventos" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-30">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-22" value="https://promotor.lomplay.com/promotor1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-30">
           <mxGeometry x="10" y="8.968421052631578" width="770" height="20.926315789473684" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-24" value="Mis ajustes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-30">
@@ -1617,7 +1617,7 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-40" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-33">
           <mxGeometry x="828.3220913040345" y="50" width="143.51" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-41" value="https://tickets.lomplay.com/miprimerevento" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-33">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-41" value="https://promotor.lomplay.com/miprimerevento" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-33">
           <mxGeometry x="10" y="12" width="770" height="28" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-42" value="Mis ajustes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-33">
@@ -1945,28 +1945,28 @@
           <mxGeometry width="1660" height="950" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-286" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
-          <mxGeometry x="5" y="140" width="975" height="10" as="geometry" />
+          <mxGeometry x="5" y="140" width="1625" height="10" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-288" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
-          <mxGeometry x="828.3220913040345" y="50" width="143.51" height="42" as="geometry" />
+          <mxGeometry x="1498.5020913040344" y="57.5" width="143.51" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-289" value="https://tickets.lomplay.com/miprimerevento" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-289" value="https://promotor.lomplay.com/miprimerevento/acceso" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
           <mxGeometry x="10" y="12" width="770" height="28" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-290" value="Mis ajustes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
-          <mxGeometry x="680" y="110" width="170" height="30" as="geometry" />
+          <mxGeometry x="1320" y="109" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-292" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
           <mxGeometry x="34" y="48" width="52" height="61" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-310" value="Volver a panel general" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
-          <mxGeometry x="620" y="50" width="193.51" height="42" as="geometry" />
+          <mxGeometry x="1280" y="57.5" width="193.51" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-312" value="Panel de evento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
           <mxGeometry x="154" y="109" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-313" value="Control de acceso" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-284">
-          <mxGeometry x="410" y="109" width="240" height="30" as="geometry" />
+          <mxGeometry x="710" y="109" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zOKsSbn0foORXdNR44y-56" value="" style="group" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1" connectable="0">
           <mxGeometry x="34" y="220" width="1608.0100000000002" height="680" as="geometry" />
@@ -2024,6 +2024,128 @@
         </mxCell>
         <mxCell id="-Dc45bXUVpSjDayH3rOr-23" value="&lt;i&gt;restrictAccess function &lt;/i&gt;- Controller.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" parent="2zOKsSbn0foORXdNR44y-56" vertex="1">
           <mxGeometry x="190" y="400" width="408.33" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-316" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="6020" y="-910" width="1060" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-406" value="" style="group" vertex="1" connectable="0" parent="tdStn-MOB4ZFelHOparJ-316">
+          <mxGeometry x="700" y="10" width="1060" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-317" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry width="1060" height="950" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-318" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="3.192771084337349" y="140" width="1037.6506024096384" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-319" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="903.03" y="48" width="136.97" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-320" value="https://promotor.lomplay.com/promotor1/micuenta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="6.385542168674698" y="12" width="491.6867469879518" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-322" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="21.710843373493972" y="48" width="33.20481927710843" height="38.95180722891566" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-323" value="Volver a panel general" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="710" y="48" width="183.57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-324" value="Mis Eventos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="219.99734939759037" y="107" width="146.86746987951807" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-325" value="Mis ajustes" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="679.9978313253011" y="107" width="153.25301204819277" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-426" value="Guardar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-406">
+          <mxGeometry x="710" y="730" width="183.57" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-407" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PANEL DE CUENTA (Account.sol)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#66FFFF;verticalAlign=middle;align=center;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-316">
+          <mxGeometry x="160" y="306" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6912;strokeWidth=9;fontSize=31;fontColor=#000000;" edge="1" parent="tdStn-MOB4ZFelHOparJ-316" source="tdStn-MOB4ZFelHOparJ-407" target="tdStn-MOB4ZFelHOparJ-317">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="320.0000000000001" as="sourcePoint" />
+            <mxPoint x="690" y="477.87" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-408" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;fontSize=22;strokeColor=#FF6912;startArrow=none;endArrow=none;exitX=0.624;exitY=1.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tdStn-MOB4ZFelHOparJ-290" target="tdStn-MOB4ZFelHOparJ-407">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5376" y="-710" as="sourcePoint" />
+            <mxPoint x="6100.2" y="-610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5700" y="-770" />
+              <mxPoint x="5700" y="-630" />
+              <mxPoint x="6100" y="-630" />
+              <mxPoint x="6100" y="-584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-410" value="Correo electrónico" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="6850" y="-650" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-411" value="name@example.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="6850" y="-610" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-412" value="Billetera virtual del administrador" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="6850" y="-570" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-413" value="0xh43h43h34jk3jk4hj34hj3hkj34h3" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="800" height="30" relative="1" as="geometry">
+            <mxPoint x="6850" y="-530" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-414" value="Cuentas enlazadas a la organización" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="6850" y="-490" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-415" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry width="800" height="100" relative="1" as="geometry">
+            <mxPoint x="6850" y="-450" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-416" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=#F1F1F1;strokeColor=#999999;rounded=0;strokeWidth=1;fontSize=31;fontColor=#000000;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-415">
+          <mxGeometry x="1" width="20" height="100" relative="1" as="geometry">
+            <mxPoint x="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-417" value="" style="fillColor=#C1C1C1;strokeColor=none;rounded=0;shadow=0;strokeWidth=1;fontSize=31;fontColor=#000000;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-416">
+          <mxGeometry width="16" height="45" relative="1" as="geometry">
+            <mxPoint x="2" y="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-418" value="" style="shape=triangle;direction=north;fillColor=#C1C1C1;strokeColor=none;perimeter=none;rounded=0;shadow=0;strokeWidth=1;fontSize=31;fontColor=#000000;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-416">
+          <mxGeometry width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="5" y="7.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-419" value="" style="shape=triangle;direction=south;fillColor=#505050;strokeColor=none;perimeter=none;rounded=0;shadow=0;strokeWidth=1;fontSize=31;fontColor=#000000;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-416">
+          <mxGeometry y="1" width="10" height="5" relative="1" as="geometry">
+            <mxPoint x="5" y="-12.5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-420" value="04h4hkj4hjkh4jhjk4hj4hjh4khj4hk4h" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-415">
+          <mxGeometry width="780" height="20" relative="1" as="geometry">
+            <mxPoint y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-421" value="0x3455b3b5nb35b35b3mnb5nmmb" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-415">
+          <mxGeometry width="780" height="20" relative="1" as="geometry">
+            <mxPoint y="30" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-422" value="0xhjjk3h3hj3hjkh3kjhj3khjk3hjk3hjk4" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-415">
+          <mxGeometry width="780" height="20" relative="1" as="geometry">
+            <mxPoint y="50" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tdStn-MOB4ZFelHOparJ-423" value="0x343h53454bnv543bc3543c5n34v" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-415">
+          <mxGeometry width="780" height="20" relative="1" as="geometry">
+            <mxPoint y="70" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
