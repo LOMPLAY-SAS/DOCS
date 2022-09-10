@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T16:59:04.398Z" agent="5.0 (Macintosh)" etag="J_xifgTnltb3jB-p3tZK" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-10T17:00:13.001Z" agent="5.0 (Macintosh)" etag="EZRVP_04rhHZVKYeeh6K" version="20.3.0" type="github" pages="3">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="7072" dy="3736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1110,7 +1110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qs--ciLJgI5a1B0VTcLK" name="Front-end promoter interaction ">
-    <mxGraphModel dx="7064" dy="4438" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8473" dy="5226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2154,7 +2154,7 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-495" value="Llévame allá" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-491">
           <mxGeometry x="828.3220913040345" y="37.368421052631575" width="143.51" height="31.389473684210525" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-496" value="https://promotor.lomplay.com/promotor1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-491">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-496" value="https://tickets.lomplay.com/comoempezar" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-491">
           <mxGeometry x="10" y="8.968421052631578" width="770" height="20.926315789473684" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-498" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="tdStn-MOB4ZFelHOparJ-491">
@@ -2199,12 +2199,13 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-548" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PÁGINA DE INICIO (promotor.lomplay.com)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#66FFFF;verticalAlign=middle;align=center;" vertex="1" parent="1">
           <mxGeometry x="-2750" y="180" width="440" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-549" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;strokeColor=#FF7C4D;exitX=1;exitY=0.519;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="tdStn-MOB4ZFelHOparJ-492">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-549" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=9;strokeColor=#FF7C4D;" edge="1" parent="1" source="tdStn-MOB4ZFelHOparJ-495">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-1220" y="214.0899999999991" as="sourcePoint" />
             <mxPoint x="-813.5079086959649" y="214.0899999999991" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-1077" y="214" />
+              <mxPoint x="-970" y="-137" />
+              <mxPoint x="-970" y="214" />
             </Array>
           </mxGeometry>
         </mxCell>
