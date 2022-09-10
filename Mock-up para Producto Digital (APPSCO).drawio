@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-10T22:36:33.865Z" agent="5.0 (Macintosh)" etag="4m0cvi5CEj6BZHWkWaNv" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-10T22:38:44.764Z" agent="5.0 (Macintosh)" etag="QT5tLc7gidXMjeKcMLKP" version="20.3.0" type="github" pages="3">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="7072" dy="3736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1110,7 +1110,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Qs--ciLJgI5a1B0VTcLK" name="Front-end promoter interaction ">
-    <mxGraphModel dx="6751" dy="4263" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6259" dy="3988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2219,11 +2219,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W1u25jJRuUU1CZsq7rOX-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6912;strokeWidth=6;fontSize=23;fontColor=#000000;" edge="1" parent="1" source="tdStn-MOB4ZFelHOparJ-434" target="tdStn-MOB4ZFelHOparJ-492">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="-300" />
+              <mxPoint x="-1610" y="-300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="GZSqqXLzlq1Kt8k4KTE6" name="front-end users">
-    <mxGraphModel dx="6201" dy="2324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6890" dy="2709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2881,7 +2889,7 @@
         <mxCell id="4KAPOFn6tLSsx2fhHi9c-4" value="¿Qué es esto?" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="4KAPOFn6tLSsx2fhHi9c-2">
           <mxGeometry x="828.3220913040345" y="37.368421052631575" width="143.51" height="31.389473684210525" as="geometry" />
         </mxCell>
-        <mxCell id="4KAPOFn6tLSsx2fhHi9c-5" value="https://promotor.lomplay.com/promotor1" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="4KAPOFn6tLSsx2fhHi9c-2">
+        <mxCell id="4KAPOFn6tLSsx2fhHi9c-5" value="https://tickets.lomplay.com/signin" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="4KAPOFn6tLSsx2fhHi9c-2">
           <mxGeometry x="10" y="8.968421052631578" width="770" height="20.926315789473684" as="geometry" />
         </mxCell>
         <mxCell id="4KAPOFn6tLSsx2fhHi9c-6" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" vertex="1" parent="4KAPOFn6tLSsx2fhHi9c-2">
