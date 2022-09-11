@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T23:27:53.294Z" agent="5.0 (Macintosh)" etag="J2mTclmTyFVGOfsYwBoA" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-11T23:29:12.594Z" agent="5.0 (Macintosh)" etag="-ztuhjUIgbzn5KBYre59" version="20.3.0" type="github" pages="3">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="7072" dy="3736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3308,7 +3308,7 @@
         <mxCell id="t3OS2EeybEqPkUYDRArJ-10" value="Guardar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-1">
           <mxGeometry x="710" y="730" width="183.57" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="t3OS2EeybEqPkUYDRArJ-17" value="Cuentas enlazadas a la organización" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-1">
+        <mxCell id="t3OS2EeybEqPkUYDRArJ-17" value="Métodos de pago" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-1">
           <mxGeometry x="130.00000000000182" y="510" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="t3OS2EeybEqPkUYDRArJ-28" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-1">
@@ -3380,24 +3380,14 @@
             <mxPoint x="5" y="-12.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t3OS2EeybEqPkUYDRArJ-23" value="04h4hkj4hjkh4jhjk4hj4hjh4khj4hk4h" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
+        <mxCell id="t3OS2EeybEqPkUYDRArJ-23" value="Billetera virtual - 0x2332n2k3b43bu34vub32i2ni" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
           <mxGeometry width="780" height="20" relative="1" as="geometry">
-            <mxPoint y="10" as="offset" />
+            <mxPoint x="-1" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t3OS2EeybEqPkUYDRArJ-24" value="0x3455b3b5nb35b35b3mnb5nmmb" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
+        <mxCell id="t3OS2EeybEqPkUYDRArJ-24" value="Tarjeta de crédito - XXXXXXXXXXXXXXXX4820" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
           <mxGeometry width="780" height="20" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3OS2EeybEqPkUYDRArJ-25" value="0xhjjk3h3hj3hjkh3kjhj3khjk3hjk3hjk4" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
-          <mxGeometry width="780" height="20" relative="1" as="geometry">
-            <mxPoint y="50" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="t3OS2EeybEqPkUYDRArJ-26" value="0x343h53454bnv543bc3543c5n34v" style="fillColor=none;strokeColor=none;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="t3OS2EeybEqPkUYDRArJ-18">
-          <mxGeometry width="780" height="20" relative="1" as="geometry">
-            <mxPoint y="70" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="t3OS2EeybEqPkUYDRArJ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FF6912;strokeWidth=8;fontSize=23;fontColor=#2212FF;" edge="1" parent="1" source="AB0wK3aokWLIUip1QWs0-15" target="t3OS2EeybEqPkUYDRArJ-11">
