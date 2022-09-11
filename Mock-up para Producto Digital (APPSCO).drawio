@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-11T12:15:46.873Z" agent="5.0 (Macintosh)" etag="nDtZEpmHnMy7VlC0eRwX" version="20.3.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-09-11T12:28:44.721Z" agent="5.0 (Macintosh)" etag="ORmU-mK_RUoShSxYNkTi" version="20.3.0" type="github" pages="3">
   <diagram id="ddx116HfcyDuYht8bZ9l" name="Front-end interaction">
     <mxGraphModel dx="7072" dy="3736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2223,7 +2223,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GZSqqXLzlq1Kt8k4KTE6" name="front-end usuario final">
-    <mxGraphModel dx="8791" dy="2385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8338" dy="2132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2480,53 +2480,8 @@
         <mxCell id="dOvrUPsm-B2BBCGU8NON-10" value="&lt;i&gt;getRefund function - &lt;/i&gt;MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="dOvrUPsm-B2BBCGU8NON-1" vertex="1">
           <mxGeometry width="780" height="35.10083297317339" as="geometry" />
         </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="1020" y="1410" width="800" height="358.06" as="geometry" />
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#10739e;fillColor=#b1ddf0;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="799.9999999999999" height="358.06" as="geometry" />
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-3" value="Enter the address of the person you want to transfer the ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="260" height="40" relative="1" as="geometry">
-            <mxPoint x="20" y="40" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-4" value="0x0000000000000000000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="700" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="80" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-5" value="We&#39;ll never share your email with anyone else." style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="260" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="110" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="700" height="30" relative="1" as="geometry">
-            <mxPoint x="20" y="180" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-7" value="I understand that the future owner wallet will not transfer any value to the current owner&#39;s wallet for the transfer of the ticket &lt;br&gt;and I am sending the ticket as a gift." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="10" height="10" relative="1" as="geometry">
-            <mxPoint x="20" y="247" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-8" value="Transfer as gift" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry width="190" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="282" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-9" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Cancel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
-          <mxGeometry x="375.90361445783134" y="291.244976076555" width="154.2168674698795" height="40.8770889952153" as="geometry" />
-        </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="Xa6i2X4kzwDe4exCv_NC-8" target="syDifZmzDO-PSiCEEg3W-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="9kXqhOFylUE9kP2h72G2-1" value="&lt;i&gt;giftTransfer function&lt;/i&gt;&amp;nbsp;- MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1360" width="880" height="39.93506493506493" as="geometry" />
-        </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="990" y="1850" width="880" height="410" as="geometry" />
+          <mxGeometry x="-840" y="2920" width="880" height="410" as="geometry" />
         </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-2" value="" style="group" parent="rLrSjvq7MUKqclostFmp-1" vertex="1" connectable="0">
           <mxGeometry x="30" y="50.58441558441559" width="850" height="359.4155844155844" as="geometry" />
@@ -2534,7 +2489,7 @@
         <mxCell id="rLrSjvq7MUKqclostFmp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#FFFF66;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="850" height="359.4155844155844" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-4" value="Enter the address of the person you want to transfer the ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-4" value="Ingrese la transacción de la persona a la que quiere revender el ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15" y="23.418441558441558" width="395" height="53.246753246753244" as="geometry" />
         </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-5" value="0x0000000000000000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
@@ -2542,36 +2497,30 @@
             <mxPoint x="15" y="69" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-6" value="Enter the reason why you are making the transfer" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-6" value="Ingrese la razón por la que quiere hacer la reventa" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="320" height="40" relative="1" as="geometry">
             <mxPoint x="15" y="108" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-7" value="&lt;i&gt;e.g I have my nephew&#39;s birthday so I can&#39;t make it. It turns out my coworker wanted to go to.&lt;/i&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-7" value="&lt;i&gt;ej: Tengo otro evento que no puedo cancelar. Ya no quiero ir a este evento. &lt;br&gt;&lt;/i&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="800" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="143" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-8" value="I understand this procedure will trigger the future owner&#39;s wallet to make a transfer to the current owner&#39;s wallet &lt;br&gt;with the value paid initially for the ticket" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-8" value="&lt;div&gt;Entiendo que se va a ejecutar una solicitud por el valor del ticket a la billetera que quiero hacer la transferencia. El valor solicitado&lt;/div&gt;&lt;div&gt;&amp;nbsp;será el mismo valor que he pagado por el ticket más los costos de procesamiento que he pagado al momento de hacer la compra&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15.000000000001819" y="221.86116883116884" width="10" height="13.311688311688311" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-9" value="I know the person I am transferring this ticket to" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-9" value="Conozco a la persona a quien estoy transfiriendo el ticket" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15.000000000001819" y="191.41588744588736" width="10" height="12.424242424242424" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-10" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Proceed&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-10" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Proceder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="630" y="279.42" width="170" height="49.72" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-11" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Cancel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-11" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Cancelar&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="370" y="279.4200000000001" width="170" height="49.72" as="geometry" />
-        </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-12" value="I know the person I am transferring this ticket to" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
-          <mxGeometry x="15.000000000001819" y="267.41588744588717" width="10" height="12.424242424242424" as="geometry" />
         </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-13" value="&lt;i&gt;ticketTransfer function&lt;/i&gt;&amp;nbsp;- MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="rLrSjvq7MUKqclostFmp-1" vertex="1">
           <mxGeometry width="880" height="39.93506493506493" as="geometry" />
-        </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;" parent="1" source="Xa6i2X4kzwDe4exCv_NC-6" target="rLrSjvq7MUKqclostFmp-13" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="O5hH34Mr5Kz9C2h5MWPo-1" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="970" y="640" width="851.5728584115402" height="560.0036601307189" as="geometry" />
@@ -3396,6 +3345,81 @@
               <mxPoint x="-1030" y="970" />
               <mxPoint x="-1030" y="1890" />
               <mxPoint x="-400" y="1890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPiKZoVOuFSeM6_ih6UK-230" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 37px;&quot;&gt;NOTA: Es posible acceder a las siguientes vistas sin necesidad de autenticación hasta solicitar un proceso de compra de entradas&lt;br&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;strokeWidth=1;fontSize=23;fontColor=#2212FF;" vertex="1" parent="1">
+          <mxGeometry x="-3970" y="-70" width="970" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiKZoVOuFSeM6_ih6UK-231" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;strokeColor=#FF6912;strokeWidth=7;fontSize=37;fontColor=#2212FF;" edge="1" parent="1" source="IPiKZoVOuFSeM6_ih6UK-174" target="4KAPOFn6tLSsx2fhHi9c-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-1760" y="2093" />
+              <mxPoint x="-1760" y="2270" />
+              <mxPoint x="-3455" y="2270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPiKZoVOuFSeM6_ih6UK-232" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-853" y="2350" width="880" height="404.9650649350649" as="geometry" />
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-1" value="" style="group" parent="IPiKZoVOuFSeM6_ih6UK-232" vertex="1" connectable="0">
+          <mxGeometry x="70" width="800" height="358.06" as="geometry" />
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#10739e;fillColor=#b1ddf0;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="799.9999999999999" height="358.06" as="geometry" />
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-3" value="Ingrese la dirección del usuario al que quiere transferir el ticket como regalo" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="260" height="40" relative="1" as="geometry">
+            <mxPoint x="20" y="40" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-4" value="0x0000000000000000000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="700" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="80" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-5" value="We&#39;ll never share your email with anyone else." style="fillColor=none;strokeColor=none;align=left;spacing=2;fontSize=12;fontColor=#999999;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="260" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="110" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-6" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="700" height="30" relative="1" as="geometry">
+            <mxPoint x="20" y="180" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-7" value="&lt;div&gt;Entiendo que el futuro dueño del ticket no va a transferir ningun tipo de valor para la consecución de esta transacción. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Entiendo que el nuevo dueño de este ticket lo recibe como un regalo&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="10" height="10" relative="1" as="geometry">
+            <mxPoint x="20" y="247" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-8" value="Transferir como regalo" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry width="240" height="50" relative="1" as="geometry">
+            <mxPoint x="500" y="282" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="syDifZmzDO-PSiCEEg3W-9" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Cancelar&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+          <mxGeometry x="283.00361445783136" y="291.244976076555" width="154.2168674698795" height="40.8770889952153" as="geometry" />
+        </mxCell>
+        <mxCell id="9kXqhOFylUE9kP2h72G2-1" value="&lt;i&gt;giftTransfer function&lt;/i&gt;&amp;nbsp;- MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="IPiKZoVOuFSeM6_ih6UK-232" vertex="1">
+          <mxGeometry y="365.03" width="880" height="39.93506493506493" as="geometry" />
+        </mxCell>
+        <mxCell id="IPiKZoVOuFSeM6_ih6UK-233" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=8;fontSize=37;fontColor=#2212FF;" edge="1" parent="1" source="Xa6i2X4kzwDe4exCv_NC-8" target="syDifZmzDO-PSiCEEg3W-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-133" y="900" />
+              <mxPoint x="210" y="900" />
+              <mxPoint x="210" y="2529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IPiKZoVOuFSeM6_ih6UK-234" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#000000;strokeWidth=8;fontSize=37;fontColor=#2212FF;" edge="1" parent="1" source="Xa6i2X4kzwDe4exCv_NC-6" target="rLrSjvq7MUKqclostFmp-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-146" y="1270" />
+              <mxPoint x="340" y="1270" />
+              <mxPoint x="340" y="3150" />
             </Array>
           </mxGeometry>
         </mxCell>
