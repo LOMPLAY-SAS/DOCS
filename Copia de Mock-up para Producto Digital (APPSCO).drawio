@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-03T21:36:24.144Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="F48TyYogJustMLjz-9_W" version="20.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-03T21:47:40.172Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="1OJzNAR_oslg7nuW8o8o" version="20.8.1" type="github" pages="2">
   <diagram id="Qs--ciLJgI5a1B0VTcLK" name="Front-end promotor ">
-    <mxGraphModel dx="4742" dy="1925" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5357" dy="2249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -789,25 +789,25 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-286" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="5" y="140" width="1625" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-288" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-288" value="Exit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="1498.5020913040344" y="57.5" width="143.51" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-289" value="https://promotor.lomplay.com/miprimerevento/acceso" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="10" y="12" width="770" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-290" value="Mis ajustes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-290" value="My settings" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="1320" y="109" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-292" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="34" y="48" width="52" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-310" value="Volver a panel general" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-310" value="Return to general panel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="1280" y="57.5" width="193.51" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-312" value="Panel de evento" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-312" value="Event panel" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="154" y="109" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-313" value="Control de acceso" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-313" value="Access control" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1">
           <mxGeometry x="710" y="109" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2zOKsSbn0foORXdNR44y-56" value="" style="group" parent="tdStn-MOB4ZFelHOparJ-284" vertex="1" connectable="0">
@@ -816,10 +816,10 @@
         <mxCell id="-Dc45bXUVpSjDayH3rOr-14" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;fontSize=35;" parent="2zOKsSbn0foORXdNR44y-56" vertex="1">
           <mxGeometry y="100" width="1608.01" height="580" as="geometry" />
         </mxCell>
-        <mxCell id="-Dc45bXUVpSjDayH3rOr-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Pídale a sus asistentes que muestren el código QR enlazado al token en su billetera &lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=35;fontColor=#000000;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="-Dc45bXUVpSjDayH3rOr-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Ask your attendees to show the QR code linked to the token in their wallet. &lt;br&gt;&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=35;fontColor=#000000;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry width="916.67" height="30" relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Dc45bXUVpSjDayH3rOr-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Lea el código QR con la cámara&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=35;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="-Dc45bXUVpSjDayH3rOr-16" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Read the QR code with the camera&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=10;fontSize=35;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry width="966.6699999999998" height="30" relative="1" as="geometry">
             <mxPoint y="30" as="offset" />
           </mxGeometry>
@@ -829,18 +829,18 @@
             <mxPoint y="60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Dc45bXUVpSjDayH3rOr-18" value="&lt;font style=&quot;font-size: 20px&quot;&gt;Notificaciones de acuerdo a las restricciones que el usuario tiene y las acciones que ha tomado. &lt;i&gt;Ej: &quot;El usuario ya ha autenticado su entrada.&quot;&lt;br&gt;&lt;/i&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=35;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="-Dc45bXUVpSjDayH3rOr-18" value="&lt;font style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;Notifications according to the restrictions the user has and the actions he/she has taken. Ex: &quot;The user has already authenticated his login&quot;.&lt;/span&gt;&lt;br&gt;&lt;/font&gt;" style="strokeColor=inherit;fillColor=inherit;gradientColor=inherit;fontColor=inherit;html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;resizeHeight=0;align=left;spacing=10;fontSize=35;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry y="1" width="966.6699999999998" height="30" relative="1" as="geometry">
             <mxPoint y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-Dc45bXUVpSjDayH3rOr-20" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Revisar acceso&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="-Dc45bXUVpSjDayH3rOr-20" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Check access&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=#000000;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="259.99999999999994" y="240" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-276" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=3;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" source="-Dc45bXUVpSjDayH3rOr-22" target="tdStn-MOB4ZFelHOparJ-271" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Dc45bXUVpSjDayH3rOr-22" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Leer entrada&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="-Dc45bXUVpSjDayH3rOr-22" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;Read ticket&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="210" y="150.06" width="310" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-Dc45bXUVpSjDayH3rOr-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ios-11-glyphs/30/qr_code-128.png;shadow=1;glass=1;sketch=0;fontSize=40;fontColor=#000000;strokeColor=#0000FF;fillColor=#CCCCFF;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
@@ -852,16 +852,16 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-271" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;fillColor=#E5CCFF;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="1010" y="20" width="580" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-272" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Estado de la entrada&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;Autenticado&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-272" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Ticket status&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;Authenticated&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="1040" y="40" width="500" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-274" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Última actualización&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;DD/MM/AAAA&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-274" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Date of last update&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;DD/MM/AAAA&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="1040" y="170" width="500" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-273" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Detalles&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;Localidad X, dueño es billetera 0XBHJHHBHBHJBB.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-273" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Details&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;Tier X, owner&amp;nbsp;of the wallet 0XBHJHHBHBHJBB.&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="-Dc45bXUVpSjDayH3rOr-14" vertex="1">
           <mxGeometry x="1040" y="390" width="500" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-275" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Código único de la entrada&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;0xHHJ54HJKJ33J433H4H33JKHH3KJH34JKH4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="2zOKsSbn0foORXdNR44y-56" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-275" value="&lt;h1 style=&quot;font-size: 20px;&quot;&gt;Unique ticket code&lt;br&gt;&lt;/h1&gt;&lt;p style=&quot;font-size: 20px;&quot;&gt;0xHHJ54HJKJ33J433H4H33JKHH3KJH34JKH4&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;shadow=0;strokeWidth=1;fontSize=20;" parent="2zOKsSbn0foORXdNR44y-56" vertex="1">
           <mxGeometry x="1040.3400000000001" y="390" width="500" height="120" as="geometry" />
         </mxCell>
         <mxCell id="-Dc45bXUVpSjDayH3rOr-23" value="&lt;i&gt;restrictAccess function &lt;/i&gt;- Controller.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=1;glass=1;sketch=0;fontSize=20;fontColor=#000000;" parent="2zOKsSbn0foORXdNR44y-56" vertex="1">
@@ -879,7 +879,7 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-318" value="" style="line;strokeWidth=1;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="3.192771084337349" y="140" width="1037.6506024096384" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-319" value="Salir" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-319" value="Exit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="903.03" y="48" width="136.97" height="42" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-320" value="https://promotor.lomplay.com/promotor1/micuenta" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;fontSize=22;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
@@ -888,19 +888,19 @@
         <mxCell id="tdStn-MOB4ZFelHOparJ-322" value="LOGO" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;rounded=0;shadow=0;strokeWidth=1;fontSize=22;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="21.710843373493972" y="48" width="33.20481927710843" height="38.95180722891566" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-323" value="Volver a panel general" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-323" value="Return to general panel" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="710" y="48" width="183.57" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-324" value="Mis Eventos" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-324" value="My events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="219.99734939759037" y="107" width="146.86746987951807" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-325" value="Mis ajustes" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-325" value="My settings" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;fontSize=22;shadow=0;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="679.9978313253011" y="107" width="153.25301204819277" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-426" value="Guardar" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-426" value="Save" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=14;fontColor=#FFFFFF;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="710" y="730" width="183.57" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="d4TlapPcIcOWxpRJePsw-1" value="Red social verificada por la organización" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
+        <mxCell id="d4TlapPcIcOWxpRJePsw-1" value="Social network verified by the organization" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
           <mxGeometry x="130" y="560" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d4TlapPcIcOWxpRJePsw-2" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" parent="tdStn-MOB4ZFelHOparJ-406" vertex="1">
@@ -931,7 +931,7 @@
             <mxPoint y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-407" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;PANEL DE CUENTA (Account.sol)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#66FFFF;verticalAlign=middle;align=center;" parent="tdStn-MOB4ZFelHOparJ-316" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-407" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 26px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;ACCOUNT PANEL (Account.sol)&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=16;fillColor=#66FFFF;verticalAlign=middle;align=center;" parent="tdStn-MOB4ZFelHOparJ-316" vertex="1">
           <mxGeometry x="160" y="306" width="340" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-409" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF6912;strokeWidth=9;fontSize=31;fontColor=#000000;" parent="tdStn-MOB4ZFelHOparJ-316" source="tdStn-MOB4ZFelHOparJ-407" target="tdStn-MOB4ZFelHOparJ-317" edge="1">
@@ -952,7 +952,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-410" value="Correo electrónico" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-410" value="Email" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="6850" y="-650" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="tdStn-MOB4ZFelHOparJ-411" value="name@example.com" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;rounded=0;strokeWidth=1;" parent="1" vertex="1">
@@ -960,7 +960,7 @@
             <mxPoint x="6850" y="-610" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-412" value="Billetera virtual del administrador" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-412" value="Administrator&#39;s virtual wallet" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="6850" y="-570" as="offset" />
           </mxGeometry>
@@ -970,7 +970,7 @@
             <mxPoint x="6850" y="-530" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tdStn-MOB4ZFelHOparJ-414" value="Cuentas enlazadas a la organización" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
+        <mxCell id="tdStn-MOB4ZFelHOparJ-414" value="Accounts linked to the organization" style="fillColor=none;strokeColor=none;align=left;fontSize=14;rounded=0;shadow=0;strokeWidth=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="6850" y="-490" as="offset" />
           </mxGeometry>
