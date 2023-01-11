@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T22:30:35.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h2uT13MxxtF9ex_FNaT7" version="20.8.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-01-11T22:41:45.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="UYGn7iI6T0ETZTTFyqMC" version="20.8.1" type="github" pages="2">
   <diagram id="Qs--ciLJgI5a1B0VTcLK" name="Front-end promotor ">
     <mxGraphModel dx="4995" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1142,7 +1142,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="GZSqqXLzlq1Kt8k4KTE6" name="front-end usuario final">
-    <mxGraphModel dx="9006" dy="2429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="8303" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1161,7 +1161,7 @@
         <mxCell id="kSQNKKGE5-s28pVahiRx-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#97D077;fillColor=#D5E8D4;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
           <mxGeometry width="753.4090909090909" height="321.891505098307" as="geometry" />
         </mxCell>
-        <mxCell id="kSQNKKGE5-s28pVahiRx-4" value="Tu ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
+        <mxCell id="kSQNKKGE5-s28pVahiRx-4" value="Your ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="30" y="33" as="offset" />
           </mxGeometry>
@@ -1176,17 +1176,17 @@
             <mxPoint x="30" y="103" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSQNKKGE5-s28pVahiRx-7" value="Evento" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
+        <mxCell id="kSQNKKGE5-s28pVahiRx-7" value="Event" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="30" y="133" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSQNKKGE5-s28pVahiRx-8" value="Mi primer evento" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
+        <mxCell id="kSQNKKGE5-s28pVahiRx-8" value="My first event" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
           <mxGeometry width="700" height="30" relative="1" as="geometry">
             <mxPoint x="30" y="173" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSQNKKGE5-s28pVahiRx-9" value="&lt;div&gt;Confirmando esta transacción usted acepta que ahora es parte del evento y que solo cuando el &lt;br&gt;&lt;/div&gt;&lt;div&gt;evento termine su ticket se convierte en prueba de asistencia&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
+        <mxCell id="kSQNKKGE5-s28pVahiRx-9" value="By confirming this transaction you agree that you are now part of the event and that only when the event&lt;br&gt;&amp;nbsp;ends does your ticket become proof of attendance" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="kSQNKKGE5-s28pVahiRx-2" vertex="1">
           <mxGeometry width="10" height="10" relative="1" as="geometry">
             <mxPoint x="30" y="223" as="offset" />
           </mxGeometry>
@@ -1214,7 +1214,7 @@
         <mxCell id="dOvrUPsm-B2BBCGU8NON-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#ae4132;fillColor=#fad9d5;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
           <mxGeometry width="780" height="254.8948293629144" as="geometry" />
         </mxCell>
-        <mxCell id="dOvrUPsm-B2BBCGU8NON-5" value="Ingrese la razón de la solicitud" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
+        <mxCell id="dOvrUPsm-B2BBCGU8NON-5" value="The reason for the request" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="49" y="39" as="offset" />
           </mxGeometry>
@@ -1224,15 +1224,15 @@
             <mxPoint x="49" y="89" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOvrUPsm-B2BBCGU8NON-7" value="&lt;div&gt;Entiendo que luego de firmar la transacción voy a recibir la cantidad que pagué inicialmente por el ticket &lt;br&gt;&lt;/div&gt;&lt;div&gt;y que debo cubrir con los costos de procesamiento asociados para dicha transacción&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
+        <mxCell id="dOvrUPsm-B2BBCGU8NON-7" value="I understand that after signing the transaction I will receive the amount I initially paid for the ticket and &lt;br&gt;that I must cover the associated processing costs for the transaction" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
           <mxGeometry width="10" height="10" relative="1" as="geometry">
             <mxPoint x="49" y="177" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dOvrUPsm-B2BBCGU8NON-8" value="Obtener reembolso" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
+        <mxCell id="dOvrUPsm-B2BBCGU8NON-8" value="Get reimbursed" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
           <mxGeometry x="530" y="209.14" width="215.43" height="32.68" as="geometry" />
         </mxCell>
-        <mxCell id="dOvrUPsm-B2BBCGU8NON-9" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Cancelar&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
+        <mxCell id="dOvrUPsm-B2BBCGU8NON-9" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Cancel&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="dOvrUPsm-B2BBCGU8NON-3" vertex="1">
           <mxGeometry x="330" y="209.14162834579085" width="141.8181818181818" height="31.188669890251987" as="geometry" />
         </mxCell>
         <mxCell id="dOvrUPsm-B2BBCGU8NON-10" value="&lt;i&gt;getRefund function - &lt;/i&gt;MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="dOvrUPsm-B2BBCGU8NON-1" vertex="1">
@@ -1247,7 +1247,7 @@
         <mxCell id="rLrSjvq7MUKqclostFmp-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontColor=#000000;strokeColor=#7EA6E0;fillColor=#FFFF66;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="850" height="359.4155844155844" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-4" value="Ingrese la transacción de la persona a la que quiere revender el ticket" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-4" value="Enter the transaction of the person you want to resell the ticket to" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15" y="23.418441558441558" width="395" height="53.246753246753244" as="geometry" />
         </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-5" value="0x0000000000000000" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
@@ -1255,26 +1255,26 @@
             <mxPoint x="15" y="69" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-6" value="Ingrese la razón por la que quiere hacer la reventa" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-6" value="Enter the reason you want to make the resale" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#212529;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="320" height="40" relative="1" as="geometry">
             <mxPoint x="15" y="108" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-7" value="&lt;i&gt;ej: Tengo otro evento que no puedo cancelar. Ya no quiero ir a este evento. &lt;br&gt;&lt;/i&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-7" value="&lt;i&gt;ex: I have another event that I cannot cancel. I no longer want to go to this event.&lt;br&gt;&lt;/i&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=none;strokeColor=#999999;align=left;spacing=15;fontSize=14;fontColor=#6C767D;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry width="800" height="30" relative="1" as="geometry">
             <mxPoint x="15" y="143" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-8" value="&lt;div&gt;Entiendo que se va a ejecutar una solicitud por el valor del ticket a la billetera que quiero hacer la transferencia. El valor solicitado&lt;/div&gt;&lt;div&gt;&amp;nbsp;será el mismo valor que he pagado por el ticket más los costos de procesamiento que he pagado al momento de hacer la compra&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-8" value="&lt;div&gt;I understand that a request will be executed for the value of the ticket to the wallet I want to transfer. The value requested&lt;/div&gt;&lt;div&gt;&amp;nbsp;will be the same value I paid for the ticket plus the processing fees I paid at the time of purchase.&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15.000000000001819" y="221.86116883116884" width="10" height="13.311688311688311" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-9" value="Conozco a la persona a quien estoy transfiriendo el ticket" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-9" value="I know the person I am transferring the ticket to" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="15.000000000001819" y="191.41588744588736" width="10" height="12.424242424242424" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-10" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Proceder&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-10" value="&lt;font color=&quot;#ffffff&quot;&gt;Proceed to&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#000DBF;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="630" y="279.42" width="170" height="49.72" as="geometry" />
         </mxCell>
-        <mxCell id="rLrSjvq7MUKqclostFmp-11" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Cancelar&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
+        <mxCell id="rLrSjvq7MUKqclostFmp-11" value="&lt;span style=&quot;color: rgb(255 , 255 , 255)&quot;&gt;Cancel&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="rLrSjvq7MUKqclostFmp-2" vertex="1">
           <mxGeometry x="370" y="279.4200000000001" width="170" height="49.72" as="geometry" />
         </mxCell>
         <mxCell id="rLrSjvq7MUKqclostFmp-13" value="&lt;i&gt;ticketTransfer function&lt;/i&gt;&amp;nbsp;- MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="rLrSjvq7MUKqclostFmp-1" vertex="1">
@@ -2052,7 +2052,7 @@
         <mxCell id="syDifZmzDO-PSiCEEg3W-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;strokeColor=#10739e;fillColor=#b1ddf0;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
           <mxGeometry width="799.9999999999999" height="358.06" as="geometry" />
         </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-3" value="Ingrese la dirección del usuario al que quiere transferir el ticket como regalo" style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+        <mxCell id="syDifZmzDO-PSiCEEg3W-3" value="Enter the address of the user to whom you want to transfer the ticket as a gift." style="fillColor=none;strokeColor=none;align=left;fontSize=14;fontColor=#000000;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
           <mxGeometry width="260" height="40" relative="1" as="geometry">
             <mxPoint x="20" y="40" as="offset" />
           </mxGeometry>
@@ -2072,17 +2072,17 @@
             <mxPoint x="20" y="180" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-7" value="&lt;div&gt;Entiendo que el futuro dueño del ticket no va a transferir ningun tipo de valor para la consecución de esta transacción. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Entiendo que el nuevo dueño de este ticket lo recibe como un regalo&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+        <mxCell id="syDifZmzDO-PSiCEEg3W-7" value="&lt;div&gt;I understand that the future owner of the ticket will not be transferring any value for the completion of this transaction.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;I understand that the new owner of this ticket is receiving it as a gift.&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=2;fillColor=#EDEDED;strokeColor=#999999;align=left;fontSize=14;fontColor=#000000;labelPosition=right;verticalLabelPosition=middle;verticalAlign=middle;spacingLeft=5;spacingTop=-2;gradientColor=#DEDEDE;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
           <mxGeometry width="10" height="10" relative="1" as="geometry">
             <mxPoint x="20" y="247" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-8" value="Transferir como regalo" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+        <mxCell id="syDifZmzDO-PSiCEEg3W-8" value="Transfer as a gift" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;align=center;fontSize=20;fontColor=#FFFFFF;fontStyle=1" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
           <mxGeometry width="240" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="282" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="syDifZmzDO-PSiCEEg3W-9" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Cancelar&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
+        <mxCell id="syDifZmzDO-PSiCEEg3W-9" value="&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;color: rgb(255, 255, 255); font-size: 23px;&quot;&gt;Cancel&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;fillColor=#FF9999;strokeColor=#000DBF;" parent="syDifZmzDO-PSiCEEg3W-1" vertex="1">
           <mxGeometry x="283.00361445783136" y="291.244976076555" width="154.2168674698795" height="40.8770889952153" as="geometry" />
         </mxCell>
         <mxCell id="9kXqhOFylUE9kP2h72G2-1" value="&lt;i&gt;giftTransfer function&lt;/i&gt;&amp;nbsp;- MarketPlace.sol" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=30;" parent="IPiKZoVOuFSeM6_ih6UK-232" vertex="1">
