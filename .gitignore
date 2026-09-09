@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Case-insensitive-FS collision: these are tracked by the root
+# lomplay-platform repo under docs/ (same physical files as DOCS/ on macOS's
+# default case-insensitive filesystem). Owned there per GIT_WORKFLOW.md.
+CONNECT_YOUR_LLM.md
+WHITE_LABEL.md

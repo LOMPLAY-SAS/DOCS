@@ -485,6 +485,14 @@ Or restart individual apps from `/Users/nicolasguascasantamaria/Documents/GitHub
 - [ ] `make platform` from repo root — auto-starts Stripe listener and syncs `STRIPE_WEBHOOK_SECRET` (no separate `make stripe-listen` terminal)
 - [ ] Optional: `make stripe-listen` for foreground debugging only
 
+### H — Dev off-ramp simulator (PRD-025 / contractor withdraw)
+
+- [ ] `WALLET_DEV_OFFRAMP_ENABLED=true`, `NEXT_PUBLIC_WALLET_DEV_OFFRAMP_ENABLED=true` in `stageforge-pro/.env.local`
+- [ ] Restart Stageforge after enabling (or full `make platform`)
+- [ ] Provider portal → **Wallet balance** → **Manage** → **Withdraw** → **Dev bank payout (local)**
+- [ ] Verify **Transaction history** shows **Fiat received: … EUR → Bank account ••••…**
+- [ ] For Coinbase on Base Sepolia: copy `stageforge-pro/.env.base-sepolia.example`, set `NEXT_PUBLIC_COINBASE_ONRAMP_APP_ID` (or `NEXT_PUBLIC_ONRAMP_APP_ID`), tunnel `POST /api/wallet/offramp/webhook/coinbase`
+
 ---
 
 ## 5. Pitfalls
