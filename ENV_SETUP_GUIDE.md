@@ -199,8 +199,11 @@ Run commands from the directory shown. Replace nothing in git — only edit your
 
 ```bash
 cd /Users/nicolasguascasantamaria/Documents/GitHub/LOMPLAY/stageforge-pro
-npx supabase status -o env
+npx supabase status -o env            # humans only, in your own terminal — it prints the keys
+npx supabase status -o env | cut -d= -f1   # AI agents: names only (AGENTS.md §3.1e)
 ```
+
+Never paste these values into an AI agent chat, and never let an agent print them: anything an agent sees reaches the model provider and its transcript.
 
 Copy into **both**:
 
